@@ -1,7 +1,9 @@
-﻿*Update*
+#Update
+========
 - Use temporary folder when compiling .bat wrapper to allow use from inside write protected folder
 
-*Oringal readme (license moved to seperate file)*
+#Oringal readme (license moved to seperate file)
+========
 
 BatToExe – Readme.txt – http://softwarebydefault.com
 Thank you for downloading BatToExe! This application is entirely open source and free of charge. 
