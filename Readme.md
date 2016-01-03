@@ -2,7 +2,7 @@
 - Use temporary folder when compiling .bat wrapper to allow use from inside write protected folder
 - Remove "any key" to exit after .bat runs
 
-#Oringal readme (license moved to seperate file)
+#Original readme
 
 BatToExe – Readme.txt – http://softwarebydefault.com
 Thank you for downloading BatToExe! This application is entirely open source and free of charge. 
