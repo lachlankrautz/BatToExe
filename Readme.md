@@ -13,7 +13,9 @@ To get you started copy the following text then paste into a blank text file.
 After saving rename the text file’s extension to .bat:
 
 `@echo off
+
 "%SystemRoot%\System32\ipconfig.exe" /all
+
 @pause`
 
 Specify your newly created *.bat file as an input batch file to BatToExe.exe, 
