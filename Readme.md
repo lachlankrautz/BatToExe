@@ -12,11 +12,9 @@ The aim of this application is to convert batch files (*.bat) to executable file
 To get you started copy the following text then paste into a blank text file. 
 After saving rename the text file’s extension to .bat:
 
-`@echo off
-
-"%SystemRoot%\System32\ipconfig.exe" /all
-
-@pause`
+@echo off  
+"%SystemRoot%\System32\ipconfig.exe" /all  
+@pause  
 
 Specify your newly created *.bat file as an input batch file to BatToExe.exe, 
 then specify a file name and location for the executable file that will be generated. 
